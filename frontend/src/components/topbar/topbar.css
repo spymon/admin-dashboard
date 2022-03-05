@@ -42,7 +42,9 @@
   width: 15px;
   border-radius: 50%;
   font-size: 10px;
-  background-color: orange;
+  background-color: red;
+  color: white;
+  font-weight: bolder;
   display: flex;
   justify-content: center;
   align-items: center;
