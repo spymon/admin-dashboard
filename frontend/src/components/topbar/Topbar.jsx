@@ -23,7 +23,7 @@ const Topbar = () => {
           </div>
           <img
             src="https://i.pinimg.com/originals/36/0e/6e/360e6e1318dd257c51f01f37cf27c862.jpg"
-            alt="avatar picture"
+            alt="avatar"
             className="topAvatar"
           />
         </div>

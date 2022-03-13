@@ -48,3 +48,51 @@ export const userData = [
     'Active user': 5321,
   },
 ]
+
+export const userRows = [
+  {
+    id: 1,
+    username: 'Jon Snow',
+    avatar:
+      'https://i.pinimg.com/564x/c5/b5/50/c5b5501c6e48b0bd6b1a1c20de393d4c.jpg',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$130.00',
+  },
+  {
+    id: 2,
+    username: 'Jon Snow',
+    avatar:
+      'https://i.pinimg.com/564x/c5/b5/50/c5b5501c6e48b0bd6b1a1c20de393d4c.jpg',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$130.00',
+  },
+  {
+    id: 3,
+    username: 'Jon Snow',
+    avatar:
+      'https://i.pinimg.com/564x/c5/b5/50/c5b5501c6e48b0bd6b1a1c20de393d4c.jpg',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$130.00',
+  },
+  {
+    id: 4,
+    username: 'Jon Snow',
+    avatar:
+      'https://i.pinimg.com/564x/c5/b5/50/c5b5501c6e48b0bd6b1a1c20de393d4c.jpg',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$130.00',
+  },
+  {
+    id: 5,
+    username: 'Jon Snow',
+    avatar:
+      'https://i.pinimg.com/564x/c5/b5/50/c5b5501c6e48b0bd6b1a1c20de393d4c.jpg',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$130.00',
+  },
+]
