@@ -54,45 +54,102 @@ export const userRows = [
     id: 1,
     username: 'Jon Snow',
     avatar:
-      'https://i.pinimg.com/564x/c5/b5/50/c5b5501c6e48b0bd6b1a1c20de393d4c.jpg',
+      'https://i.pinimg.com/564x/02/e7/75/02e7755ac48a6013daad3f85fb765ff9.jpg',
     email: 'jon@gmail.com',
     status: 'active',
-    transaction: '$130.00',
+    price: '$130.00',
   },
   {
     id: 2,
     username: 'Jon Snow',
     avatar:
-      'https://i.pinimg.com/564x/c5/b5/50/c5b5501c6e48b0bd6b1a1c20de393d4c.jpg',
+      'https://i.pinimg.com/564x/02/e7/75/02e7755ac48a6013daad3f85fb765ff9.jpg',
     email: 'jon@gmail.com',
     status: 'active',
-    transaction: '$130.00',
+    price: '$130.00',
   },
   {
     id: 3,
     username: 'Jon Snow',
     avatar:
-      'https://i.pinimg.com/564x/c5/b5/50/c5b5501c6e48b0bd6b1a1c20de393d4c.jpg',
+      'https://i.pinimg.com/564x/02/e7/75/02e7755ac48a6013daad3f85fb765ff9.jpg',
     email: 'jon@gmail.com',
     status: 'active',
-    transaction: '$130.00',
+    price: '$130.00',
   },
   {
     id: 4,
     username: 'Jon Snow',
     avatar:
-      'https://i.pinimg.com/564x/c5/b5/50/c5b5501c6e48b0bd6b1a1c20de393d4c.jpg',
+      'https://i.pinimg.com/564x/02/e7/75/02e7755ac48a6013daad3f85fb765ff9.jpg',
     email: 'jon@gmail.com',
     status: 'active',
-    transaction: '$130.00',
+    price: '$130.00',
   },
   {
     id: 5,
     username: 'Jon Snow',
     avatar:
-      'https://i.pinimg.com/564x/c5/b5/50/c5b5501c6e48b0bd6b1a1c20de393d4c.jpg',
+      'https://i.pinimg.com/564x/02/e7/75/02e7755ac48a6013daad3f85fb765ff9.jpg',
     email: 'jon@gmail.com',
     status: 'active',
-    transaction: '$130.00',
+    price: '$130.00',
+  },
+  {
+    id: 6,
+    username: 'Jon Snow',
+    avatar:
+      'https://i.pinimg.com/564x/02/e7/75/02e7755ac48a6013daad3f85fb765ff9.jpg',
+    email: 'jon@gmail.com',
+    status: 'active',
+    price: '$130.00',
+  },
+]
+
+export const productRows = [
+  {
+    id: 1,
+    name: 'Apple Airpots',
+    image:
+      'https://www.xda-developers.com/files/2020/11/apple-airpods-pro-header-image.jpg',
+    stock: 123,
+    status: 'active',
+    price: '$130.00',
+  },
+  {
+    id: 2,
+    name: 'Apple Airpots',
+    image:
+      'https://www.xda-developers.com/files/2020/11/apple-airpods-pro-header-image.jpg',
+    stock: 123,
+    status: 'active',
+    price: '$130.00',
+  },
+  {
+    id: 3,
+    name: 'Apple Airpots',
+    image:
+      'https://www.xda-developers.com/files/2020/11/apple-airpods-pro-header-image.jpg',
+    stock: 123,
+    status: 'active',
+    price: '$130.00',
+  },
+  {
+    id: 4,
+    name: 'Apple Airpots',
+    image:
+      'https://www.xda-developers.com/files/2020/11/apple-airpods-pro-header-image.jpg',
+    stock: 123,
+    status: 'active',
+    price: '$130.00',
+  },
+  {
+    id: 5,
+    name: 'Apple Airpots',
+    image:
+      'https://www.xda-developers.com/files/2020/11/apple-airpods-pro-header-image.jpg',
+    stock: 123,
+    status: 'active',
+    price: '$130.00',
   },
 ]
